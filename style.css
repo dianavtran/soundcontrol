@@ -36,6 +36,10 @@ body {
 	padding-top: 20px;
 }
 
+#content img {
+	margin: 10px 8px 0 0;
+}
+
 #form {
 	position: relative;
 	margin-top: 50px;
